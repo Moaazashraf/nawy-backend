@@ -1,0 +1,55 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.apartments = void 0;
+exports.apartments = [
+    {
+        id: 1,
+        price: 200000,
+        address: "Hacienda West, North Coast, Egypt",
+        zipcode: 12314,
+        bedrooms: 2,
+        bathrooms: 1,
+        compound: "Hacienda West",
+        finished: false,
+    },
+    {
+        id: 2,
+        price: 200000,
+        address: "Hacienda West, North Coast, Egypt",
+        zipcode: 12314,
+        bedrooms: 2,
+        bathrooms: 1,
+        compound: "Hacienda West",
+        finished: false,
+    },
+    {
+        id: 3,
+        price: 26388520,
+        address: "Hacienda West, North Coast, Egypt",
+        zipcode: 12314,
+        bedrooms: 2,
+        bathrooms: 1,
+        compound: "Hacienda West",
+        finished: false,
+    },
+    {
+        id: 4,
+        price: 200000,
+        address: "Hacienda West, North Coast, Egypt",
+        zipcode: 12314,
+        bedrooms: 2,
+        bathrooms: 1,
+        compound: "Hacienda West",
+        finished: false,
+    },
+    {
+        id: 5,
+        price: 200000,
+        address: "Hacienda West, North Coast, Egypt",
+        zipcode: 12314,
+        bedrooms: 2,
+        bathrooms: 1,
+        compound: "Hacienda West",
+        finished: false,
+    },
+];
