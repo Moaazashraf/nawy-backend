@@ -24,7 +24,7 @@ git clone https://github.com/Moaazashraf/nawy-backend.git
 
 #### 2. Navigate to the project directory:
 ```bash
-cd MININAWY
+cd MiniNawy
 ```
 #### 3. Install dependencies:
 ```bash
